@@ -1,0 +1,8 @@
+C:\Users\KEVIN\source\repos\Keas1126\Keas1126\bin\Debug\Keas1126.exe.config
+C:\Users\KEVIN\source\repos\Keas1126\Keas1126\bin\Debug\Keas1126.exe
+C:\Users\KEVIN\source\repos\Keas1126\Keas1126\bin\Debug\Keas1126.pdb
+C:\Users\KEVIN\source\repos\Keas1126\Keas1126\obj\Debug\Keas1126.csproj.AssemblyReference.cache
+C:\Users\KEVIN\source\repos\Keas1126\Keas1126\obj\Debug\Keas1126.csproj.SuggestedBindingRedirects.cache
+C:\Users\KEVIN\source\repos\Keas1126\Keas1126\obj\Debug\Keas1126.csproj.CoreCompileInputs.cache
+C:\Users\KEVIN\source\repos\Keas1126\Keas1126\obj\Debug\Keas1126.exe
+C:\Users\KEVIN\source\repos\Keas1126\Keas1126\obj\Debug\Keas1126.pdb

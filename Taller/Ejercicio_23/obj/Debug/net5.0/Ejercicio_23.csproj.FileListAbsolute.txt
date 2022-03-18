@@ -1,0 +1,15 @@
+C:\Users\KEVIN\source\repos\Taller\Ejercicio_23\bin\Debug\net5.0\Ejercicio_23.exe
+C:\Users\KEVIN\source\repos\Taller\Ejercicio_23\bin\Debug\net5.0\Ejercicio_23.deps.json
+C:\Users\KEVIN\source\repos\Taller\Ejercicio_23\bin\Debug\net5.0\Ejercicio_23.runtimeconfig.json
+C:\Users\KEVIN\source\repos\Taller\Ejercicio_23\bin\Debug\net5.0\Ejercicio_23.runtimeconfig.dev.json
+C:\Users\KEVIN\source\repos\Taller\Ejercicio_23\bin\Debug\net5.0\Ejercicio_23.dll
+C:\Users\KEVIN\source\repos\Taller\Ejercicio_23\bin\Debug\net5.0\ref\Ejercicio_23.dll
+C:\Users\KEVIN\source\repos\Taller\Ejercicio_23\bin\Debug\net5.0\Ejercicio_23.pdb
+C:\Users\KEVIN\source\repos\Taller\Ejercicio_23\obj\Debug\net5.0\Ejercicio_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEVIN\source\repos\Taller\Ejercicio_23\obj\Debug\net5.0\Ejercicio_23.AssemblyInfoInputs.cache
+C:\Users\KEVIN\source\repos\Taller\Ejercicio_23\obj\Debug\net5.0\Ejercicio_23.AssemblyInfo.cs
+C:\Users\KEVIN\source\repos\Taller\Ejercicio_23\obj\Debug\net5.0\Ejercicio_23.csproj.CoreCompileInputs.cache
+C:\Users\KEVIN\source\repos\Taller\Ejercicio_23\obj\Debug\net5.0\Ejercicio_23.dll
+C:\Users\KEVIN\source\repos\Taller\Ejercicio_23\obj\Debug\net5.0\ref\Ejercicio_23.dll
+C:\Users\KEVIN\source\repos\Taller\Ejercicio_23\obj\Debug\net5.0\Ejercicio_23.pdb
+C:\Users\KEVIN\source\repos\Taller\Ejercicio_23\obj\Debug\net5.0\Ejercicio_23.genruntimeconfig.cache

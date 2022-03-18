@@ -1,0 +1,16 @@
+C:\Users\KEVIN\source\repos\Taller_2\Ejercicio_9\bin\Debug\net5.0\Ejercicio_9.exe
+C:\Users\KEVIN\source\repos\Taller_2\Ejercicio_9\bin\Debug\net5.0\Ejercicio_9.deps.json
+C:\Users\KEVIN\source\repos\Taller_2\Ejercicio_9\bin\Debug\net5.0\Ejercicio_9.runtimeconfig.json
+C:\Users\KEVIN\source\repos\Taller_2\Ejercicio_9\bin\Debug\net5.0\Ejercicio_9.runtimeconfig.dev.json
+C:\Users\KEVIN\source\repos\Taller_2\Ejercicio_9\bin\Debug\net5.0\Ejercicio_9.dll
+C:\Users\KEVIN\source\repos\Taller_2\Ejercicio_9\bin\Debug\net5.0\ref\Ejercicio_9.dll
+C:\Users\KEVIN\source\repos\Taller_2\Ejercicio_9\bin\Debug\net5.0\Ejercicio_9.pdb
+C:\Users\KEVIN\source\repos\Taller_2\Ejercicio_9\obj\Debug\net5.0\Ejercicio_9.csproj.AssemblyReference.cache
+C:\Users\KEVIN\source\repos\Taller_2\Ejercicio_9\obj\Debug\net5.0\Ejercicio_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEVIN\source\repos\Taller_2\Ejercicio_9\obj\Debug\net5.0\Ejercicio_9.AssemblyInfoInputs.cache
+C:\Users\KEVIN\source\repos\Taller_2\Ejercicio_9\obj\Debug\net5.0\Ejercicio_9.AssemblyInfo.cs
+C:\Users\KEVIN\source\repos\Taller_2\Ejercicio_9\obj\Debug\net5.0\Ejercicio_9.csproj.CoreCompileInputs.cache
+C:\Users\KEVIN\source\repos\Taller_2\Ejercicio_9\obj\Debug\net5.0\Ejercicio_9.dll
+C:\Users\KEVIN\source\repos\Taller_2\Ejercicio_9\obj\Debug\net5.0\ref\Ejercicio_9.dll
+C:\Users\KEVIN\source\repos\Taller_2\Ejercicio_9\obj\Debug\net5.0\Ejercicio_9.pdb
+C:\Users\KEVIN\source\repos\Taller_2\Ejercicio_9\obj\Debug\net5.0\Ejercicio_9.genruntimeconfig.cache

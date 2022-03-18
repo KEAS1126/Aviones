@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "49c9c829-f3da-4d3d-9ed2-926da44eef4d": {
+      "ProjectGuid": "49c9c829-f3da-4d3d-9ed2-926da44eef4d",
+      "DisplayName": "Aviones",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

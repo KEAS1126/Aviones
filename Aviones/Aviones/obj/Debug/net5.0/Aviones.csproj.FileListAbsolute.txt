@@ -1,0 +1,16 @@
+C:\Users\KEVIN\source\repos\Aviones\Aviones\bin\Debug\net5.0\Aviones.exe
+C:\Users\KEVIN\source\repos\Aviones\Aviones\bin\Debug\net5.0\Aviones.deps.json
+C:\Users\KEVIN\source\repos\Aviones\Aviones\bin\Debug\net5.0\Aviones.runtimeconfig.json
+C:\Users\KEVIN\source\repos\Aviones\Aviones\bin\Debug\net5.0\Aviones.runtimeconfig.dev.json
+C:\Users\KEVIN\source\repos\Aviones\Aviones\bin\Debug\net5.0\Aviones.dll
+C:\Users\KEVIN\source\repos\Aviones\Aviones\bin\Debug\net5.0\ref\Aviones.dll
+C:\Users\KEVIN\source\repos\Aviones\Aviones\bin\Debug\net5.0\Aviones.pdb
+C:\Users\KEVIN\source\repos\Aviones\Aviones\obj\Debug\net5.0\Aviones.csproj.AssemblyReference.cache
+C:\Users\KEVIN\source\repos\Aviones\Aviones\obj\Debug\net5.0\Aviones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEVIN\source\repos\Aviones\Aviones\obj\Debug\net5.0\Aviones.AssemblyInfoInputs.cache
+C:\Users\KEVIN\source\repos\Aviones\Aviones\obj\Debug\net5.0\Aviones.AssemblyInfo.cs
+C:\Users\KEVIN\source\repos\Aviones\Aviones\obj\Debug\net5.0\Aviones.csproj.CoreCompileInputs.cache
+C:\Users\KEVIN\source\repos\Aviones\Aviones\obj\Debug\net5.0\Aviones.dll
+C:\Users\KEVIN\source\repos\Aviones\Aviones\obj\Debug\net5.0\ref\Aviones.dll
+C:\Users\KEVIN\source\repos\Aviones\Aviones\obj\Debug\net5.0\Aviones.pdb
+C:\Users\KEVIN\source\repos\Aviones\Aviones\obj\Debug\net5.0\Aviones.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\KEVIN\source\repos\KEAS\KEAS\bin\Debug\net6.0\KEAS.exe
+C:\Users\KEVIN\source\repos\KEAS\KEAS\bin\Debug\net6.0\KEAS.deps.json
+C:\Users\KEVIN\source\repos\KEAS\KEAS\bin\Debug\net6.0\KEAS.runtimeconfig.json
+C:\Users\KEVIN\source\repos\KEAS\KEAS\bin\Debug\net6.0\KEAS.dll
+C:\Users\KEVIN\source\repos\KEAS\KEAS\bin\Debug\net6.0\ref\KEAS.dll
+C:\Users\KEVIN\source\repos\KEAS\KEAS\bin\Debug\net6.0\KEAS.pdb
+C:\Users\KEVIN\source\repos\KEAS\KEAS\obj\Debug\net6.0\KEAS.csproj.AssemblyReference.cache
+C:\Users\KEVIN\source\repos\KEAS\KEAS\obj\Debug\net6.0\KEAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEVIN\source\repos\KEAS\KEAS\obj\Debug\net6.0\KEAS.AssemblyInfoInputs.cache
+C:\Users\KEVIN\source\repos\KEAS\KEAS\obj\Debug\net6.0\KEAS.AssemblyInfo.cs
+C:\Users\KEVIN\source\repos\KEAS\KEAS\obj\Debug\net6.0\KEAS.csproj.CoreCompileInputs.cache
+C:\Users\KEVIN\source\repos\KEAS\KEAS\obj\Debug\net6.0\KEAS.dll
+C:\Users\KEVIN\source\repos\KEAS\KEAS\obj\Debug\net6.0\ref\KEAS.dll
+C:\Users\KEVIN\source\repos\KEAS\KEAS\obj\Debug\net6.0\KEAS.pdb
+C:\Users\KEVIN\source\repos\KEAS\KEAS\obj\Debug\net6.0\KEAS.genruntimeconfig.cache

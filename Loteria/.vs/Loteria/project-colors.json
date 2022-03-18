@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "273a5eb4-1471-4c6b-aadf-03b13b8a62d2": {
+      "ProjectGuid": "273a5eb4-1471-4c6b-aadf-03b13b8a62d2",
+      "DisplayName": "Loteria",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

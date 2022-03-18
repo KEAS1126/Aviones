@@ -1,0 +1,8 @@
+C:\Users\KEVIN\source\repos\Loteria\bin\Debug\Loteria.exe.config
+C:\Users\KEVIN\source\repos\Loteria\bin\Debug\Loteria.exe
+C:\Users\KEVIN\source\repos\Loteria\bin\Debug\Loteria.pdb
+C:\Users\KEVIN\source\repos\Loteria\obj\Debug\Loteria.csproj.AssemblyReference.cache
+C:\Users\KEVIN\source\repos\Loteria\obj\Debug\Loteria.csproj.SuggestedBindingRedirects.cache
+C:\Users\KEVIN\source\repos\Loteria\obj\Debug\Loteria.csproj.CoreCompileInputs.cache
+C:\Users\KEVIN\source\repos\Loteria\obj\Debug\Loteria.exe
+C:\Users\KEVIN\source\repos\Loteria\obj\Debug\Loteria.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0/mt19XSsw57yaiUTnNt+dOixARJRo6IE9PRwSnZvVoB+xtwpB21SQ0m1ovu6OJ3cR931JIlO/G4UvA/cU9QKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KEVIN\\source\\repos\\Aviones\\Aviones\\Aviones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KEVIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
